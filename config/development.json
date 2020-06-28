@@ -1,0 +1,10 @@
+{
+    "name"  : "Api Development",
+    "database" : {
+        "mongo" : {
+            "host" : "mongodb://127.0.0.1",
+            "schema" : "web_service",
+            "port" : 27017
+        }
+    }
+}
